@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP Dersleri-Classes", "OOP Dersleri-Değer Tipleri\OOP Dersleri-Classes.csproj", "{E8E76AF5-27DF-435F-9DAF-AAE9D42008D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoDersler", "DemoDersler\DemoDersler.csproj", "{C7FB4EFE-C636-4EE4-A15C-392B94435EB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8E76AF5-27DF-435F-9DAF-AAE9D42008D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8E76AF5-27DF-435F-9DAF-AAE9D42008D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8E76AF5-27DF-435F-9DAF-AAE9D42008D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8E76AF5-27DF-435F-9DAF-AAE9D42008D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7FB4EFE-C636-4EE4-A15C-392B94435EB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7FB4EFE-C636-4EE4-A15C-392B94435EB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7FB4EFE-C636-4EE4-A15C-392B94435EB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7FB4EFE-C636-4EE4-A15C-392B94435EB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4F2DA80-B9AC-4979-9E01-FCBDBC840476}
+	EndGlobalSection
+EndGlobal
