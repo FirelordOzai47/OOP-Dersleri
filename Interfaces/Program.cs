@@ -10,6 +10,8 @@ namespace Interfaces
     {
         static void Main(string[] args)
         {
+
+        
             InterfacesIntro();
             ICustomerDal[] customersDals = new ICustomerDal[2]
             {
@@ -79,4 +81,6 @@ namespace Interfaces
             Console.WriteLine($"Soyadı:{person.LastName}");
         }
     }
+
+
 }
