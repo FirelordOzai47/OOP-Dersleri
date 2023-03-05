@@ -22,6 +22,7 @@ namespace Classes_Sınıflar_
             customer.City = "Mardin";
             customer.Id = 1;
             Console.WriteLine(customer.Name);
+            Console.WriteLine(customer.City);
             Console.ReadLine();
         }
 
