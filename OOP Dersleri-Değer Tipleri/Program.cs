@@ -14,7 +14,7 @@ namespace OOP_Dersleri_Değer_Tipleri
             CustomerManager customerManager = new CustomerManager();
             customerManager.Add();
             customerManager.Update();
-            Console.ReadLine();
+            
 
             Customer customer = new Customer();
             customer.Id = 1;
